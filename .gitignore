@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Config files with sensitive data
+config.json
+*.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Snowflake
+*.log
+*.sql.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Data files (too large for GitHub)
+data/

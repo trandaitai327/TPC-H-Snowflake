@@ -1,0 +1,10 @@
+{
+    "account": "your_account_identifier",
+    "user": "your_username",
+    "password": "your_password",
+    "warehouse": "COMPUTE_WH",
+    "database": "TPCH_ANALYTICS_DB",
+    "schema": "ANALYTICS",
+    "role": "TPCH_ADMIN"
+}
+
