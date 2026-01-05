@@ -8,7 +8,7 @@
 
 ## Giới thiệu
 
-Đây là đồ án cuối khóa của mình về xây dựng hệ thống phân tích dữ liệu sử dụng bộ dữ liệu TPC-H trên nền tảng Snowflake. Dự án này bao gồm các phần chính:
+Đây là dự án của mình về xây dựng hệ thống phân tích dữ liệu sử dụng bộ dữ liệu TPC-H trên nền tảng Snowflake. Dự án này bao gồm các phần chính:
 
 - Medallion Architecture (Bronze → Silver → Gold)
 - Automation với Tasks và Streams
