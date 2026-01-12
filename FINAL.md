@@ -1,4 +1,4 @@
-# 🎓 ĐỒ ÁN CUỐI KHÓA SNOWFLAKE BOOTCAMP
+
 ## Hệ Thống Phân Tích Dữ Liệu Kinh Doanh Quốc Tế (TPC-H)
 
 ---
